@@ -1,0 +1,14 @@
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry.deps.json
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry.runtimeconfig.json
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry.dll
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/bin/Debug/net9.0/StaffRegistry.pdb
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.AssemblyInfoInputs.cache
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.AssemblyInfo.cs
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.csproj.CoreCompileInputs.cache
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.dll
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/obj/Debug/net9.0/refint/StaffRegistry.dll
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.pdb
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/obj/Debug/net9.0/StaffRegistry.genruntimeconfig.cache
+/Users/tkmac/code/Lexicon/StaffRegistry/StaffRegistry/StaffRegistry/obj/Debug/net9.0/ref/StaffRegistry.dll
